@@ -1,0 +1,11 @@
+- faire un shuffle par score et afficher par ordre de score
+- titre cliquable pour shuffle (reset les tags) + "shuffle press 'P'" en police jeux vidéos
+- le titre fait un transform de perspective sur shuffle
+- un emoji par tag !
+- se refaire la liste des tutos pour piquer des idées
+- ajouter une tuile de wishlist
+- une tuile de titre (fond blanc)
+- un emoji cerveau ???
+- utiliser l'ordrer de flexbox pour réorganiser les tuiles ?
+- spinner de load ?
+- faire une frise en fond ?
